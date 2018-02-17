@@ -1,0 +1,6 @@
+#!/bin/bash
+
+export PYTHONPATH=./
+
+python3 test/test.py
+python2 test/test.py

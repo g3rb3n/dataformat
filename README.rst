@@ -1,10 +1,10 @@
-# dataformat
-A simple dtata format checker and cleaner for python
+A simple format checker
+=======================
 
 A simple utility library that can check if data has a certain format and clean it up.
 Used for checking API input formats and cleaning up output formats.
 
-# Example
+Example
 ```
 import dataformat as f
 import json

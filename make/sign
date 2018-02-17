@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gpg --detach-sign -a dist/*.whl
+gpg --detach-sign -a dist/*.gz

@@ -1,0 +1,8 @@
+{
+    "float":3.14,
+    "integer":3,
+    "boolean":true,
+    "false":false,
+    "true":true,
+    "string":"test"
+}
