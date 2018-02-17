@@ -2,7 +2,7 @@ from setuptools import setup
 
 long_description = 'Simple format check and cleanup utility for web API servers'
 setup(name='dataformat',
-    version='0.1.0',
+    version='0.1.1',
     description='Simple format check and cleanup utility',
     long_description=long_description,
     url='http://github.com/g3rb3n/dataformat',
